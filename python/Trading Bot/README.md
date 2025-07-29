@@ -1,6 +1,6 @@
 Trading Bot Portfolio by Johann Felix.
 
-Description
+Description:<br>
 Trading bot to determine volume spike in given period.
 
 Tech Stack :
